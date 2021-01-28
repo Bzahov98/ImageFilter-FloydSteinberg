@@ -13,8 +13,8 @@ You can find implementation of an alghorithm of The Floyd–Steinberg error diff
   *  Alghorithm is embeded into Transformation, at class [DitherTransformation](https://github.com/Bzahov98/ImageFilter-FloydSteinberg/blob/master/app/src/main/java/com/example/imagefilter/transformations/Dither.java])
 
 ## Executable APK file: 
+
 You can download latest release of the Executable APK file from [here](https://github.com/Bzahov98/ImageFilter-FloydSteinberg/releases)
-Може да свалите изпълнимия код на приложението и да го изпробвате от тук.
 
 ## App User flow
 
