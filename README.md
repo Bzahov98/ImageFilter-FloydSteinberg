@@ -5,6 +5,10 @@ Android app for pick and crop an image and apply - FloydSteinberg - Error Diffus
 
 You can find project documentation [here](https://docs.google.com/document/d/13zo047KhsjRp6bn2xlypTmduJ1FbdKjcpA2nC8NPdho/edit?usp=sharing).
 
+## App UI
+
+You can find app screenshots at project documentation [here](https://docs.google.com/document/d/13zo047KhsjRp6bn2xlypTmduJ1FbdKjcpA2nC8NPdho/edit?usp=sharing).
+
 ## Source code: 
 
 You can find implementation of an alghorithm of The Floyd–Steinberg error diffusion filtering :
