@@ -50,14 +50,10 @@ class FilterImageAndCropFragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        //Picasso.get().load(R.drawable.demo).transform(transformation).into((ImageView) findViewById (R.id.image));
-        val mIcon = BitmapFactory.decodeResource(requireContext().resources, R.drawable.lena)
 
         hideImageNoLoader()
-
         fabButton?.setOnClickListener {
             Log.d(TAG, "Button clicked")
-
             hideImageWithLoader()
 
             ImagePicker
